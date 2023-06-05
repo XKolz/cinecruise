@@ -1,4 +1,4 @@
-# React Movie App
+# React Movie App1
 
 A Simple Movie Application using React JS, Typescript and Tailwind css, allows user to search and see the trailer of the movie.
 
